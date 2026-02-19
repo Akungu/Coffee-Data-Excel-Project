@@ -5,30 +5,30 @@ I developed a comprehensive project in MS Excel, creating pivot tables, charts a
 The purpose of this analysis was to study how different factors influence sales of coffee in the United States, Ireland and the United Kingdom, for a continuous period of time – from January 2019 to July 2022. From the analysis I was able to gain insights into the trend of sales and how these factors affect them. These factors include type of coffee (robusta, excelsa, and liberica), size of the coffe, roast type, and the presence or absence of a loyalty card.
 ## The data set collected contains 3 tables (orders, customers, and products) with the following variables:
 Orders                         
-*Customer ID	
-*Product ID	Quantity	
-*Customer Name	
-*Email	
-*Country	
-*Coffee Type	
-*Roast Type	Size	
-*Unit Price	
-*Sales
+* Customer ID	
+* Product ID	Quantity	
+* Customer Name	
+* Email	
+* Country	
+* Coffee Type	
+* Roast Type	Size	
+* Unit Price	
+* Sales
 
 Customers
-*Customer ID
-*Customer Name
-*Email	Phone Number
-*Address Line 1	City
-*Country	Postcode
-*Loyalty Card
+* Customer ID
+* Customer Name
+* Email	Phone Number
+* Address Line 1	City
+* Country	Postcode
+* Loyalty Card
 
 Products
-*Product ID	
-*Coffee Type	
-*Roast Type	Size	
-*Unit Price	Price per 100g	
-*Profit
+* Product ID	
+* Coffee Type	
+* Roast Type	Size	
+* Unit Price	Price per 100g	
+* Profit
 # Configuration
 The data was clean and did not need much pre-processing.
 # Data Features
