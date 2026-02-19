@@ -1,5 +1,6 @@
 # Coffee-Data-Excel-Project
 I developed a comprehensive project in MS Excel, creating pivot tables, charts and an interactive dashboard to analyze the data. This I achieved by carrying out data preprocessing and visualization.
+
 # Introduction
 ## Objective
 The purpose of this analysis was to study how different factors influence sales of coffee in the United States, Ireland and the United Kingdom, for a continuous period of time – from January 2019 to July 2022. From the analysis I was able to gain insights into the trend of sales and how these factors affect them. These factors include type of coffee (robusta, excelsa, and liberica), size of the coffe, roast type, and the presence or absence of a loyalty card.
@@ -31,6 +32,7 @@ Products
 * Profit
 # Configuration
 The data was clean and did not need much pre-processing.
+
 # Data Features
 I used different functions in excel to populate the empty fields in the order table so as to gain insight into the data. 
 XLOOKUP
@@ -57,6 +59,8 @@ Different charts were used to visualize the data and draw meaning from them. Bar
 
 # Dashboard
 ![Dashboard](/coffee_sales_dashboard.png)
+
+
 
 
 
