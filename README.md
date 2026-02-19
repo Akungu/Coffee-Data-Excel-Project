@@ -56,7 +56,7 @@ I used INDEX in combination with MATCH to populate product fields (Coffee Type,	
 Different charts were used to visualize the data and draw meaning from them. Bar charts were used to visualize categorical variables of numerical data and line charts were used to show trends between different variables over a continuous period of time.
 
 # Dashboard
-![Project Logo](images/logo.png)
+![Dashboard](/coffee_sales_dashboard.png)
 
 
 
