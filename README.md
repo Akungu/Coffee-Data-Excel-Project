@@ -65,5 +65,3 @@ Different charts were used to visualize the data and draw meaning from them. Bar
 
 
 
-The data was pre-processed using 
-
